@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Portifólio Caroline
 site_url: 
 theme:
     name: material
@@ -64,8 +64,10 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
+    - Introdução:
         - Welcome: index.md
+    - Sobre Mim:
+        - Quem sou eu: SobreMim/carol.md 
 
 markdown_extensions:
     - md_in_html
@@ -81,5 +83,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/carolineberghahn/cursoextensao.github.io
+repo_name: Portifólio Carol
