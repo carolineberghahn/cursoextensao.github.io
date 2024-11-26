@@ -1,0 +1,1 @@
+Tenho 17 anos, sou de Sapucaia do Sul mesmo e pretendo seguir na carreira de desenvolviemnto de software.
